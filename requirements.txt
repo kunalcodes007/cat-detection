@@ -1,0 +1,10 @@
+import libraries of python OpenCV 
+# where its functionality resides 
+  
+# load the required trained XML classifiers : 
+
+# data/haarcascades/haarcascade_frontalcatface.xml 
+# Trained XML classifiers describes some features of some 
+# object we want to detect a cascade function is trained 
+# from a lot of positive(faces) and negative(non-faces) 
+# images. 
